@@ -1,3 +1,7 @@
+rs.py is the script to extract view counts
+compare.py is the script to compare view counts between different timestamp
+
+Usage:
 1, python rs.py 
 (make sure you can acess reelshort.com with browser, if not, then set up vpn firstly.)
 the result would be logged into csv files with timestamp as the filename.
