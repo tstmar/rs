@@ -26,7 +26,7 @@ def scrape_page(driver, page_num):
     url = BASE_URL.format("" if page_num == 1 else page_num)
     print(f"\n🔄 Scraping page {page_num}...")
     driver.get(url)
-    #time.sleep(4)
+    time.sleep(3)
 
     soup = BeautifulSoup(driver.page_source, "html.parser")
     movie_blocks = soup.select("div.flex.rounded-4px")
