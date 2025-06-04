@@ -10,7 +10,7 @@ Usage:
 
 1, python rs.py 
 
-(make sure you can acess reelshort.com with browser, if not, then set up vpn firstly.)
+(make sure you can acess reelshort.com with browser, if not, set up vpn firstly.)
 
 the result would be logged into csv files with timestamp as the filename.
 
