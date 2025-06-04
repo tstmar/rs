@@ -5,6 +5,9 @@ compare.py is the script to compare view counts between different timestamp
 
 Usage:
 
+0, install the required liabrary with pip.
+
+
 1, python rs.py 
 
 (make sure you can acess reelshort.com with browser, if not, then set up vpn firstly.)
